@@ -6,9 +6,18 @@ A collection of my competitive programming journey across LeetCode and Codeforce
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Musa-Qureshi-01/Coding-Journal/tree/master/0004-median-of-two-sorted-arrays) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Musa-Qureshi-01/Coding-Journal/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Musa-Qureshi-01/Coding-Journal/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Musa-Qureshi-01/Coding-Journal/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Musa-Qureshi-01/Coding-Journal/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
