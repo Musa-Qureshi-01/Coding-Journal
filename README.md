@@ -20,4 +20,16 @@ A collection of my competitive programming journey across LeetCode and Codeforce
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Musa-Qureshi-01/Coding-Journal/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Musa-Qureshi-01/Coding-Journal/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Musa-Qureshi-01/Coding-Journal/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Musa-Qureshi-01/Coding-Journal/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
