@@ -8,6 +8,7 @@ A collection of my competitive programming journey across LeetCode and Codeforce
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Musa-Qureshi-01/Coding-Journal/tree/master/0004-median-of-two-sorted-arrays) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Musa-Qureshi-01/Coding-Journal/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [1288-remove-covered-intervals](https://github.com/Musa-Qureshi-01/Coding-Journal/tree/master/1288-remove-covered-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of my competitive programming journey across LeetCode and Codeforce
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Musa-Qureshi-01/Coding-Journal/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/Musa-Qureshi-01/Coding-Journal/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
